@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiosidades sobre o curso</title>
+</head>
+<link rel="stylesheet" href="csss/p.css">
+<body>
+    <h1> Curiosidades sobre o curso Ciência da computação</h1>
+    <img  width="1330px" height="490px" src="img/img.jpg"><br> <br> 
+    <h2>Sobre o Curso</h2>
+    <p>O curso de Ciência da Computação ou CC  para os mais íntimos , tem como função ser um curso prático da computação, obtendo seus fundamentos teóricos, suas aplicações e seus impactos na sociedade. É uma área interdisciplinar que combina a teoria da computação, engenharia de software, eletrônica, engenharia de computação, inteligência artificial, linguística, matemática computacional, sistemas distribuídos, conhecimento da computação, redes e outras disciplinas que serão ditas mais afundo ao decorrer do texto.<br>
+
+        Além de ser um curso renomado, o curso  forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software, mas claro, a prática  e estudos em casa , levam o profissional a outros patamares referente ao aprendizado. <br> <br>
+        
+        Por ser da área de ciências exatas, o aluno precisa ter uma boa base matemática e raciocínio lógico desenvolvido, além de uma baita criatividade  para resolver os problemas diários.
+        
+        Ao final do curso, o estudante poderá criar de ferramentas mais simples com computadores pessoais até sistemas complexos como os de processamento de informações e redes corporativas.
+        
+        No mercado de trabalho, o cientista da computação pode atuar como desenvolvedor, programador, analista de TI, arquiteto de software, gerente de TI ou pesquisador em instituições públicas ou privadas.<br> <br>
+        <strong>Observação: Essa parte do mercado de trabalho, está totalmente disponível ao decorrer do texto, então não perca!!</strong>
+        
+        </p>
+<p>O setor de tecnologia da informação é um dos que mais crescem no mundo, conta com diversos seguimentos e a possibilidade de atuar nas mais distintas áreas. Esse conjunto de fatores atraem a atenção e despertam a curiosidade de muita gente. Se você é um desses curiosos e está pensando em ingressar em algum curso de TI, sobretudo no curso de Ciência da Computação, existem algumas coisas que você talvez gostasse (ou não) de saber:</p>
+
+
+    <h2><strong>Assuntos da disciplina</strong></h2>
+    <p>O curso de Ciência da Computação dura 4 anos. No comecinho do curso, os alunos têm as matérias mais básicas, que dão uma base pras matérias mais específicas da área.
+
+        Nesse 1 ano e meio, mais ou menos, você vai ter muito cálculo e pouca programação, mas fica calmo que ela vem!<br> <br>
+        
+        Segundo o MEC (Ministério da Educação), os assuntos que os alunos vão encontrar na faculdade de Ciência da Computação são:<br> <br> </p>
+        
+       <p class="paragrafo" style="background:#ccc"> 
+        <strong>Matemática Discreta;</br><br>
+            <strong>Lógica;</strong></br><br>
+            <strong>Projeto e Análise de Algoritmos;</strong><br><br>
+            <strong>Teoria da Computação;</strong><br><br>
+            <strong>Linguagens de Programação:</strong><br><br>
+            <strong>Modelos, Semântica, Reconhecedores e Interpretadores;</strong><br><br>
+            <strong>Especificação, Verificação e Testes de Programas;</strong><br><br>
+            <strong>Arquitetura de Computadores;</strong><br><br>
+            <strong>Técnicas e Sistemas Digitais;</strong><br><br>
+            <strong>Infraestrutura (Sistemas Operacionais, Compiladores);</strong><br><br>
+            <strong>Inteligência Artificial;</strong><br><br>
+            <strong>Processamento de Imagens e Computação Gráfica;</strong><br><br>
+            <strong> Interface Homem-Computador;</strong><br><br>
+            <strong> Segurança e Privacidade;</strong><br><br>
+            <strong> Engenharia de Programas de Computadores;</strong><br><br>
+        <strong> de Dados;</strong><br><br>
+        <strong>Redes de Computadores;</strong> <br> <br> </p>
+    <p>
+        <strong>Observação:</strong>
+        <br>
+        Pra se formar, o futuro cientista precisa fazer o lindão do TCC (Trabalho de Conclusão de Curso).<br><br>
+        <p> O profissional da área de Ciência da Computação trabalha em atividades de informática e relacionadas, presentes em todas as atividades econômicas.
+
+            Costuma desenvolver suas atividades em universidades, institutos de pesquisa e grandes empresas, tanto no setor público como no privado. Também atua em ambientes nos quais se pesquisa alta tecnologia para ser absorvida pelo mercado.
+            
+            Pode trabalhar como empregado, funcionário público ou como autônomo. Recebe supervisão ocasional e desenvolve seus trabalhos em equipe multidisciplinar, parceria ou cooperação, de forma presencial ou a distância.</p>
+        </p>
+        <p  class="paragrafo"style="background:gray">Áreas de Atuação:<br> <br>
+        Análise de Sistemas:<br><br>
+        O profissional vai analisar (NÃO DIGA!) os tipos de programas e elaborar uma espécie de manual com os pontos necessários pra desenvolver aquele tipo de software.<br><br>
+        
+     Arquitetura de Software:<br><br>
+    
+        Se ali em cima o profissional vai olhar pra cada detalhezinho do sistema, o arquiteto de software vai olhar mais de longe. A tarefa dele é projetar todo o funcionamento do sistema.
+        
+        O cientista da computação, na função de arquiteto de software, vai projetar as partes maiores do sistema, sem olhar muito pros detalhes pequenos. Isso fica pro analista e pro desenvolvedor.<br><br>
+        
+    Gerência de TI: <br><br>
+        O cientista da computação também pode coordenar equipes de trabalho gerenciando projetos de desenvolvimento.<br> <br>
+        
+Programação e Desenvolvimento de Softwares : <br> <br>
+        Nessa área aqui, o profissional vai botar a mão na massa mesmo (no teclado, nesse caso). Escrever aqueles códigos que, para quem não estudou, são mais difíceis de entender que grego.<br><br>
+        
+        </p><br> <br>
+        <a class="mouse" href="segunda.html" target="_blank">Sobre a carreira</a>
+        <a class="mouse" href="terceira.html">Cursos Alternativos</a>
+    
+</body>
+</html>
+
