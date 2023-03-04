@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="p-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Áreas Parecidas</title>
+</head>
+<link rel="stylesheet" href="csss/p.css">
+<body>
+
+    <h1>Cursos Alternativos </h1><br><br>
+    <img src="img/pexels-cottonbro-studio-4709285.jpg"width="1330px" height="490px" ><br> <br>
+    <p>Quem deseja ingressar no mercado de tecnologia, sabe que é fundamental investir em qualificação profissional para o desenvolvimento das habilidades técnicas, as hard skills.
+
+        Afinal, com a transformação digital em ritmo acelerado nas empresas, muitas áreas estão com alta demanda, mas ainda faltam profissionais especializados.
+        
+        Nesse cenário, quem optar por um curso de tecnologia de nível superior, será uma ótima forma de iniciar a carreira. Entretanto, os cursos profissionalizantes técnicos também são uma boa opção para quem deseja ingressar no mercado em menos tempo. <br> <br>
+        <strong>Engenharia da Computação</strong><br> <br>
+        O curso de Engenharia da computação é um dos mais versáteis na área de tecnologia. O profissional poderá trabalhar projetando computadores, sistemas digitais, projetos de automação industrial, aplicativos e até robôs.
+        
+        Com a duração de cinco anos, a grade curricular do curso é bastante completa, com disciplinas que vão desde cálculo, álgebra, física, linguagem de programação, desenvolvimento de softwares e até mesmo robótica.<br> <br>
+
+        <strong>Sistema da informação</strong><br> <br>
+        O curso de Sistema da Informação é focado no desenvolvimento e implementação de soluções de TI, com o objetivo de automatizar rotinas e otimizar processos.
+        
+        Após a formação, o profissional poderá trabalhar com gerenciamento de fluxo das informações, desenvolvimento de sistemas, criação de softwares, sites e gestão de projetos.
+        
+        Além disso, o analista de sistemas também pode atuar na área de suporte técnico, realizando a manutenção de sistemas, banco de dados e de redes de computadores.
+        
+        Esse curso de tecnologia tem a duração de quatro anos e a grade curricular é focada em cálculos matemáticos, algoritmos, linguagem de programação e arquitetura de redes.<br> <br>
+        <strong>Análise e desenvolvimento de sistemas</strong><br> <br>
+        O profissional de Análise e desenvolvimento de sistemas é responsável por desenvolver, projetar e implementar sistemas informatizados. 
+        
+        Com a duração de três anos, as disciplinas desse curso são bastante diversificadas. Desde fundamentos de redes de computadores, introdução a programação, gestão de serviços para TI e modelagem de sistemas.<br> <br>
+
+        <strong>Gestão de Tecnologia da Informação</strong><br> <br> 
+Esse curso aborda disciplinas de empreendedorismo, linguagem de programação, gestão de processos em TI, comportamento organizacional e governança de sistemas de informação, entre outras. 
+
+Após a formação, o profissional poderá atuar em cargos de Gestão de Serviços em TI, Engenharia de Software, Governança em TI e Gerenciamento de Projetos de TI. O curso tem em média a duração de dois anos.
+
+Para quem já trabalha como gestor de TI, esse curso pode ser uma formação complementar na área. <br> <br>
+
+<strong>Desenvolvedor Mobile</strong><br> <br>
+O desenvolvedor mobile está ganhando cada vez mais espaço nas empresas e startups, além disso, a carreira não exige o curso superior. Neste caso, o curso técnico é uma ótima alternativa para quem busca uma formação em menos tempo.
+
+O curso aborda disciplinas como programação orientada a objetos, interface com usuário, integração com sistemas externos, linguagens de programação, além de metodologias ágeis e API´s.
+
+Após a formação, o profissional poderá trabalhar em empresas de tecnologia e startups na área de desenvolvimento e manutenção de aplicativos. O curso tem a duração de um a dois anos.<br> <br>
+
+<strong>Técnico em Informática</strong><br> <br>
+Este curso é para quem tem interesse na área de tecnologia e deseja atuar com manutenção de computadores, instalação de redes locais e desenvolvimento de sistemas.
+
+Durante as aulas, o aluno enfrentará situações reais, criando projetos práticos e soluções criativas em equipe. O curso tem em média a duração de um ano e meio.
+
+Sem dúvida, o curso de tecnologia de Técnico em Informática é uma ótima opção para quem deseja ingressar nessa área e conquistar uma oportunidade em pouco tempo.<br> <br> </p>
+
+<br> <br>
+    <a class="mouse" target="blank" href="primeira.html">Voltar para a Inicial</a>
+    
+</body>
+</html>
