@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"> 
+    <meta name="description" content="Site de uma agencia">
+    <meta name="keywords" content="agencia digital , desenvolvedor, marketing">
+    
+    <title>Segundo site</title>
+
+    <link rel="stylesheet" href="css/segunda.css"></a>
+
+</head>
+<body>
+<nav class="navbar">
+    <div class="logo">
+        <h1>Agência Fake</h1>
+    </div>
+    <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Sobre Nós</a>
+        <a href="#">Serviços</a>
+        <a id="botao" href="#">Fale conosco</a>
+    </div>
+    
+
+
+</nav>
+<header class="header">
+    <div class="headline">
+        <h2 style="letter-spacing: 10px"> Você achou a melhor Agência Digital da internet</h2>
+        <h2 style="font-size: 80px;"> Agência Digital</h2>
+        <br> <br> 
+        <a id="botao"style="text-decoration:none; padding: 25px; border-radius:8px; " href="#">Contrate agora</a>
+    </div>
+
+        <div class=img-headline>
+            <img style=" max-width: 100%" src="img/3d-social-media-icons-background_52683-28863.avif">
+        </div>
+
+
+    </div>
+
+
+</header>
+<section>
+    <h2> O que podemos fazer pelo seu negócio</h2>
+    <div class="serviços">
+        <div class="cards">
+            <img src="img/pc.png">
+            <h3> Desenvolvimento de Sites</h3>
+                <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, porro, mollitia quos laudantium ex blanditiis vero numquam at cum harum expedita non delectus atque officia id, fugiat temporibus nulla odio.</p>
+            
+        </div>
+        <div class="cards">
+            <img src="img/smatphone.png">
+            <h3> Desenvolvimento de Apps</h3>
+                <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, porro, mollitia quos laudantium ex blanditiis vero numquam at cum harum expedita non delectus atque officia id, fugiat temporibus nulla odio.</p>
+            
+        </div>
+        <div class="cards">
+            
+            <img src="img/marketing.png">
+            <h3> Marketing digital</h3>
+                <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, porro, mollitia quos laudantium ex blanditiis vero numquam at cum harum expedita non delectus atque officia id, fugiat temporibus nulla odio.</p>
+             </div>
+        </div>
+    </div>
+</section>
+<footer>
+    <div class="logo-rodape">
+    <h1 class="agencia"> Agência Fake</h1>
+    <p style="color:white">Um site feito co HTML e CSS puro</p>
+    <b style= "color:white">© Todos os direitos reservados</b> 
+</div>
+
+
+</footer>
+    
+</body>
+</html> 
