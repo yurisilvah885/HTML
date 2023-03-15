@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Apresentação</title>
+    <link rel="stylesheet" href="trabalho.css">
+</head>
+<body>
+    
+    <h1> Apresentação</h1>
+</div>
+<div class="logo">
+    
+    <div >
+        <a href="#">Home</a></div>
+    
+    <div> <a href="#">Sobre</a></div>
+    <div> <a href="#">Fale Conosco</a></div>
+    <div> <a href="#">Suporte</a></div>
+</div>
+<br> <br>
+    <header class="imagem" >
+        <img  style="max-width: 100%;"class="imagem-img" src="img/Sf 1.png">
+        <div class="head">
+<h2  style="color:#dc3bc5; letter-spacing: 5px;"> A melhor agência de infoprodutos<br> Digital</h2>
+
+
+<a id="logos"href="#">Confira</a>
+
+</div>
+
+    </header>
+    
+
+    <h2 style="text-align: center;
+    font-size: 50px; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">O que podemos fazer pelo seu negócio</h2>
+
+    <section>
+        <div class="serviços">
+        <div class="cards">
+            <h3>Produtos</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore culpa aliquid illum nemo cumque deserunt asperiores? Earum necessitatibus placeat, fuga, facilis magni et, eius modi eligendi natus ea eaque quibusdam?</p>
+</div>
+<div class="cards">
+<h3>Mercado</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore culpa aliquid illum nemo cumque deserunt asperiores? Earum necessitatibus placeat, fuga, facilis magni et, eius modi eligendi natus ea eaque quibusdam?</p>
+</div>
+<div class="cards">
+<h3>Histórico de Vendas</h3>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore culpa aliquid illum nemo cumque deserunt asperiores? Earum necessitatibus placeat, fuga, facilis magni et, eius modi eligendi natus ea eaque quibusdam?</p>
+</div>
+</div>
+    </section>
+
+    <footer>
+        <div class="logo-rodape">
+            <h1 class="agencia"> JeyMath</h1>
+            <p style="color:white">Um site feito com HTML e CSS puro</p>
+            <b style= "color:white">© Todos os direitos reservados</b> 
+        </div>
+
+    </footer>
+    
+</body>
+</html>
